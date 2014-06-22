@@ -1,0 +1,14 @@
+{
+  "name": "ukce",
+  "version": "0.0.0",
+  "description": "Scrape UK Cycling Events results",
+  "author": {
+    "name": "Ben Godfrey",
+    "email": "bpgodfrey@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "moment": "~2.7.0",
+    "lodash": "~2.4.1"
+  }
+}
